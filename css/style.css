@@ -1,0 +1,58 @@
+header {
+    background-color:#dd0890;
+    text-align: center;
+}
+
+header > img {
+    width: 393.5px;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+main {
+    background-image: url("../bilder/NTIgb.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    text-align: center;
+}
+
+.codeblue {
+    width: 80%;
+    background-image: url("../bilder/code_blue_web.png");
+    margin-left: 10%;
+    height: 90vh;
+    opacity: 0.75;
+    filter: alpha(opacity=75);
+}
+
+footer {
+    height: 10vh;
+    background-color: #f0f0f0;
+    width: 80%;
+    margin-left: 10%;
+}
+
+footer > img {
+    width: 83.2px;
+    height: 73.6px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bolder;
+    color: #222222;
+}
+
+p {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: lighter;
+    color: #222222;
+    font-size: 1.5em;
+    margin: 50px;
+}
